@@ -1,4 +1,7 @@
-# News channels
+# Global news channels in one page
+
+## You can find the most important Arab and international news channels on one page, Local and international news, sports news, all of that and more
+
 
 ## 1-[AL jazeera](https://www.aljazeera.net/)
 
