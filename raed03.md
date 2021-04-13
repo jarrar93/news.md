@@ -1,5 +1,6 @@
-# ch1:
+# summary :
 
+# ch1:
 * pages introduce key pieces of HTML &
 CSS code. The HTML code is shown in blue and CSS
 code is shown in pink.
