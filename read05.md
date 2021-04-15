@@ -21,3 +21,16 @@ Using the results of
 evaluations, you can
 decide which path your
 script should go down.
+
+Operator	Comparisons	Description
+Equal (==)	x == y	Returns true if the operands are equal.
+Strict equal (===)	x === y	Returns true if the operands are equal and of the same type.
+Not equal (!=)	x != y	Returns true if the operands are not equal.
+Strict not equal (!==)	x !== y	Returns true if the operands are not equal and/or not of the same type.
+ 	 	 
+Greater than (>)	x>ys	Returns true if the left operand is greater than the right operand.
+Greater than or equal (>=)	x>=y	Returns true if the left operand is greater than or equal to the right operand.
+ 	 	 
+Less than (<)	x<y	Returns true if the left operand is less than the right operand.
+Less than or equal (<=)	x<=y	Returns true if the left operand is less than or equal to the right operand.
+ 	 	  
