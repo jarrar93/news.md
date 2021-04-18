@@ -10,7 +10,8 @@ hex codes These are six-digit codes that represent the amount of red, green and 
 
 color names There are 147 predefined color names that are recognized by browsers. For example: rad
 
- # Background Color
+ # Background Color:
+ 
 CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box.
 
 You can specify your choice of background color in the same three ways you can specify foreground colors: RGB values, hex codes, and color names (covered on the next page)
